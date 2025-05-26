@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:   FASTA
 " Maintainer: André Müller
-" Version:
+" Version:    1.0.0
 
 if exists("b:current_syntax")
     finish
